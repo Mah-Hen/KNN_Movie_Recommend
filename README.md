@@ -1,7 +1,7 @@
 # Dependencies
-!pip install mysql-connector-python
-!pip install requests
-!pip install json
+- !pip install mysql-connector-python
+- !pip install requests
+- !pip install json
 
  
  # KNN_Movie_Recommend
